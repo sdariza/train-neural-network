@@ -6,7 +6,6 @@
 *.pth
 logs
 comandos.txt
-data/custom/labels/*.txt
 
 
 
